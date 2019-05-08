@@ -1,0 +1,60 @@
+.fixed-top {
+    background-color: #edeff1;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+	color: #31353e;
+	 padding: 5px 15px;
+	 font-size: 12px;
+}
+
+.navbar-brand img {
+	width: 90px;
+}
+
+.nav-link.js-scroll-trigger.active{
+	background-color: #dd4b2b;
+	border-radius: 30px;
+	color: #edeff1;
+}
+
+section {
+	padding: 0;
+}
+
+#Fusceat{
+	background: url(../img/background.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top: 60px;
+	text-align: center;
+	color: #edeff1;
+}
+
+#Fusceat h2{
+	padding-top: 30%;
+}
+
+.round {
+ margin-top: 10%;
+}
+
+.round p {
+	
+	font-size: 10px;
+
+}
+.round img {
+	width:90px;
+}
+
+.btn.btn-fusceat {
+	background-color: #ffffff;
+	border-radius: 35px;
+	padding: 4px 20px;
+	font-size: 12px;
+	margin-top: 10px;
+	margin-bottom: 100px;
+	color: #612316;
+}
+
